@@ -115,18 +115,20 @@ The purpose is to investigate the relationship between analytical solutions, num
 
 All three methods calculate the same theoretical quantity. Their differences arise from their computational approaches rather than different financial models.
 
+
 ## Model Parameters
 
 | Symbol | Description |
-|---|---|
-| \(S_0\) | Initial underlying asset price |
-| \(K\) | Option strike price |
-| \(T\) | Time to expiration, in years |
-| \(r\) | Continuously compounded risk-free interest rate |
-| \(\sigma\) | Annualized volatility |
-| \(M\) | Number of Monte Carlo simulations |
-| \(N(x)\) | Standard normal cumulative distribution function |
-| \(\phi(x)\) | Standard normal probability density function |
+|:---|:---|
+| S₀ | Initial underlying asset price |
+| K | Option strike price |
+| T | Time to expiration, in years |
+| r | Continuously compounded risk-free interest rate |
+| σ | Annualized volatility |
+| M | Number of Monte Carlo simulations |
+| N(x) | Standard normal cumulative distribution function |
+| φ(x) | Standard normal probability density function |
+
 
 ### Model Assumptions
 
